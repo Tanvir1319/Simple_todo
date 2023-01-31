@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:to_do/components/dialog_box.dart';
 import 'package:to_do/components/todo_tile.dart';
-import 'package:to_do/const/colors.dart';
+import 'package:to_do/style/colors.dart';
 import 'package:to_do/data/database.dart';
 
 class HomeScreen extends StatefulWidget {

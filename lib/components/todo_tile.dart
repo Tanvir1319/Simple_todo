@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:to_do/const/colors.dart';
+import 'package:to_do/style/colors.dart';
 
 class ToDoTile extends StatelessWidget {
 

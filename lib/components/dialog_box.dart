@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:to_do/components/button.dart';
-import 'package:to_do/const/colors.dart';
+import 'package:to_do/style/colors.dart';
 
 class DialogBox extends StatelessWidget {
   VoidCallback OnSave;
